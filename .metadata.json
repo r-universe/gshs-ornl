@@ -1,0 +1,10 @@
+[
+  {
+    "package": "revengc",
+    "oncran": true
+  },
+  {
+    "package": "wbstats",
+    "oncran": true
+  }
+]
