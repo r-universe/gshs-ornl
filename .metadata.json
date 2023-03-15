@@ -1,10 +1,10 @@
 [
   {
-    "package": "revengc",
+    "package": "wbstats",
     "oncran": true
   },
   {
-    "package": "wbstats",
+    "package": "revengc",
     "oncran": true
   }
 ]
