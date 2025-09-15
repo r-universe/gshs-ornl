@@ -5,6 +5,3 @@
 [submodule "revengc"]
 	path = revengc
 	url = https://github.com/gshs-ornl/revengc
-[submodule "wbstats"]
-	path = wbstats
-	url = https://github.com/gshs-ornl/wbstats
